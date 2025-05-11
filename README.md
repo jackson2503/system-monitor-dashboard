@@ -33,6 +33,7 @@ Solution: Installed via - sudo apt install ifstat
 
 Problem: No terminal output
 Solution: Added tee -a to show and log output
+![Description](https://raw.githubusercontent.com/jackson2503/system-monitor-dashboard/main/tee-a.png)
 
 ## What I Learned
 Use of basic system monitoring functions in linux
