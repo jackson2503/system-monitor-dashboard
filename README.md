@@ -32,12 +32,6 @@ Problem: ifstat: command not found
 Solution: Installed via -
 ```bash
 sudo apt install ifstat
+
 Problem: No terminal output
 Solution: Added tee -a to show and log output
-
-## What I Learned
-Installing and using standard linux tools
-Use of terminal in linux
-
-
-
