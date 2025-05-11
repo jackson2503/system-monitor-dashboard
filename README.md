@@ -21,8 +21,8 @@ A simple Linux-based system monitoring dashboard. This project logs key metrics 
    git clone https://github.com/yourusername/system-monitor-dashboard.git
    cd system-monitor-dashboard
 2. Make the script executable:
-   bash
+   ```bash
    chmod +x syslog.sh
 3. Run it:
-   bash
+   ```bash
    ./syslog.sh
