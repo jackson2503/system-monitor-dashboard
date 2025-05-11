@@ -18,7 +18,7 @@ A simple Linux-based system monitoring dashboard. This project logs key metrics 
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/system-monitor-dashboard.git
+   git clone https://github.com/jackson2503/system-monitor-dashboard.git
    cd system-monitor-dashboard
 2. Make the script executable:
    ```bash
