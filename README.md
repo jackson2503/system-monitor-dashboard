@@ -29,9 +29,10 @@ A simple Linux-based system monitoring dashboard. This project logs key metrics 
    
 ## Troubleshooting Steps Taken
 Problem: ifstat: command not found
-Solution: Installed via -
-```bash
-sudo apt install ifstat
+Solution: Installed via - sudo apt install ifstat
 
 Problem: No terminal output
 Solution: Added tee -a to show and log output
+
+## What I Learned
+Use of basic system monitoring functions in linux
