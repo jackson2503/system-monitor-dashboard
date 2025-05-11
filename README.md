@@ -20,3 +20,9 @@ A simple Linux-based system monitoring dashboard. This project logs key metrics 
    ```bash
    git clone https://github.com/yourusername/system-monitor-dashboard.git
    cd system-monitor-dashboard
+2. Make the script executable:
+   bash
+   chmod +x syslog.sh
+3. Run it:
+   bash
+   ./syslog.sh
